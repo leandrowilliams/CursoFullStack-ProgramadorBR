@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+* {
+    color: rgb(51, 51, 85);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.texto1 {
+    color: rgb(51, 107, 74);
+}
+
+#texto2 {
+    color: rgb(155, 30, 30);
+}
