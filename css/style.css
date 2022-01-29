@@ -11,3 +11,17 @@
 #texto2 {
     color: rgb(155, 30, 30);
 }
+
+#base {
+    height: 100%;
+    color: white;
+    background-color: red;
+    margin: 10px;
+}
+
+#colors {
+    height: 100%;
+    background-color: blueviolet;
+    color: blue!important;
+    padding: 50%;
+}
